@@ -1,4 +1,4 @@
-module v2ray.com/core
+module github.com/FrayTTT/v2ray-core_test_fork
 
 go 1.15
 
